@@ -4,3 +4,7 @@ pandas==2.2.2
 torch==2.6.0
 torchvision==0.21.0
 tqdm==4.66.4
+python-dotenv==1.0.0
+
+llama-index==0.10.27
+llama-index-embeddings-openai==0.1.7
